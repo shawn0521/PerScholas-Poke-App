@@ -1,0 +1,7 @@
+const pokemon = [
+  {name: "bulbasaur", img: "http://img.pokemondb.net/artwork/bulbasaur.jpg"},
+  {name: "charizard", img: "http://img.pokemondb.net/artwork/charizard.jpg"},
+  {name: "squirtle", img: "http://img.pokemondb.net/artwork/squirtle.jpg"},
+];
+
+module.exports = pokemon
